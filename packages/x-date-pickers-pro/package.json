@@ -41,7 +41,7 @@
     "directory": "packages/x-date-pickers-pro"
   },
   "dependencies": {
-    "@babel/runtime": "^7.21.0",
+    "@babel/runtime": "^7.21.5",
     "@mui/utils": "^5.12.3",
     "@mui/x-date-pickers": "6.3.0",
     "@mui/x-license-pro": "6.0.4",
